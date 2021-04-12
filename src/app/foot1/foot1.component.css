@@ -1,0 +1,58 @@
+#ft1wrap {
+  width: 92%;
+  background-color: #2e2d2d;
+  height: 820px;
+  padding-top: 7.5%;
+  padding-left: 8%;
+}
+#foot1_background {
+  background-image: url("/assets/footer1_background.webp");
+  width: 88%;
+  height: 85%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+#ft1cnt_wrap{
+    width: 500px;
+}
+#ft1_blutxt {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #53aef0;
+  font-size: 60px;
+  float: left;
+  margin-top: 200px;
+  margin-left: 100px;
+  width: 100%;
+}
+#ft1_whttxt {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 17px;
+  float:left;
+  margin-left:100px;
+  margin-top: 20px;
+  width:500px;
+}
+#ft1_fbbtn {
+  background-color: #53aef0;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  width: 160px;
+  height: 50px;
+  border-radius: 40px;
+  margin-top: 30px;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 15px;
+  color: #282828;
+  float:left;
+  margin-left: 100px;
+}
+  #ft1_fbbtn:hover {
+    background-color: transparent;
+    border: 2px solid white;
+    transition-duration: 0.4s;
+    color: white;
+  }
+

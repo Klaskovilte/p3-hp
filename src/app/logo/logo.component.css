@@ -1,0 +1,10 @@
+#Logo{
+    background-image: url("/assets/partyhub_small_4.png");
+    position:fixed;
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 700px;
+    height: 300px;
+    background-repeat:no-repeat;
+
+}

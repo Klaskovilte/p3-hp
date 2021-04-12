@@ -1,0 +1,70 @@
+#cnt3wrap{
+    width: 500px;
+    height: 550px;
+    position:absolute;
+    margin-top: 2500px;
+    margin-left: 250px;
+}
+#cnt3pic {
+  background-image:url("/assets/mobile_pic.webp");
+  width: 100px;
+  height: 100px;
+  border-radius: 25px;
+  border: 6px solid white;
+  background-repeat: no-repeat;
+}
+#cnt3_bluetxt {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 35px;
+  color: #53aef0;
+  margin-top: 5px;
+}
+#cnt3_whitetxt {
+  color: #FFF7F7;
+  font-Family: questrial,sans-serif;
+  font-size: 18px;
+  margin-top:10px;
+  line-height:1.5;
+}
+#cnt3_andbtn {
+  background-color: transparent;
+  color: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 50px;
+  outline: none;
+  cursor: pointer;
+  border: 2px solid white;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 15px;
+  margin-top: 40px;
+}
+
+  #cnt3_andbtn:hover {
+    background-color: #53aef0;
+    border: none;
+    color: #282828;
+    transition-duration: 0.4s;
+  }
+
+#cnt3_iosbtn {
+  background-color: transparent;
+  color: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 50px;
+  outline: none;
+  cursor: pointer;
+  border: 2px solid white;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 15px;
+  margin-top: 40px;
+  margin-left: 170px;
+}
+
+  #cnt3_iosbtn:hover {
+    background-color: #53aef0;
+    border: none;
+    color: #282828;
+    transition-duration: 0.4s;
+  }

@@ -1,0 +1,21 @@
+#Menu {
+  position: fixed;
+  margin-top: 40px;
+  right: 60px;
+  width: 70px;
+  height: 70px;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  background-color: #53aef0;
+  background-image: url("/assets/menu_pic_4.png");
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+  #Menu:hover {
+    background-color: dodgerblue;
+    transition-duration: 0.4s;
+  }
+button.hover {
+  
+}
